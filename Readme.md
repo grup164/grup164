@@ -6,10 +6,9 @@ Grup 164
 
 ## Takım Elemanları
 
-- Kerem Alan: Product Owner
+- Şeyma Demir: Product Owner
 - Beyza Ünal: Scrum Master
 - Koray Ademoğlu: Team Member/Developer
-- Şeyma Demir: Team Member/Developer
 - Doğukan Özgür Yılmaz: Team Member/Developer
 
 ## Ürün İsmi
@@ -125,4 +124,68 @@ Sprint Review katılımcıları: Kerem Alan, Koray Ademoglu, Dogukan Ozgur Yilma
 
 # Sprint 3
 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 110
+
+- **Puan tamamlama mantığı**: Sprint basina 110 baz puan uzerinden tamamlanmasi gereken hedeflere, is yuklerine gore puan dagitimi yapilmistir. Is/zaman planinda kapladigi alan ve cakistigi diger gorevler ile birlikte genel bir degerlendirme yapilarak, ekip icerisinde verilen ortak kararlar sonucunda puanlar dagitilmaktadir.
+
+- **Backlog düzeni ve Story seçimleri**: 
+- Email taslağı oluşturuldu. Database tablosu oluşturuldu. Her sayfanın tasarımı tamamlandı. Takımdan ayrılan kişi sebebiyle Product Owner rolüne sahip kişi değişti.
+
+- **Daily Scrum**: Whatsapp üzerinden her gün 5 dakika görüşüldü.
+
+- **Sprint board update:**
+- ![image](https://user-images.githubusercontent.com/104442377/172070423-cfe2df4f-6b27-467e-8602-47a084c5341b.JPG)
+
+[Miro Backlog Board](https://miro.com/app/board/uXjVO2YcnrQ=/?share_link_id=174949307003)
+
+
+- **Konuşma Görütüleri:**
+- ![2  toplantı](https://user-images.githubusercontent.com/92759134/167721112-ed8643cb-991d-4866-a7bd-4a9b70c66d23.jpeg)
+
+
+ 
+- **Ürün Durumu** (Ekran görüntüleri):
+
+- ![1](https://user-images.githubusercontent.com/104442377/172071382-37c851f7-6d11-40fc-a854-03ff960a80e6.jpeg)
+
+
+- ![2](https://user-images.githubusercontent.com/104442377/172071390-93eaba99-1f2d-457c-94a6-bd2b0b2294e4.jpeg)
+ 
+
+- ![3](https://user-images.githubusercontent.com/104442377/172071397-0792dc37-32d4-4965-aebd-ac9e8f3c8eb8.jpeg)
+
+
+- ![3_1](https://user-images.githubusercontent.com/104442377/172071404-443f30bd-f550-4918-8de0-e0180fc69e61.jpeg) 
+
+
+- ![4](https://user-images.githubusercontent.com/104442377/172071409-4e271492-4548-4277-a7a4-2a194a278758.jpeg)
+
+
+- ![5](https://user-images.githubusercontent.com/104442377/172071419-64dea790-0d67-4642-ba39-d858705601b6.jpeg)
+
+
+- ![6](https://user-images.githubusercontent.com/104442377/172071426-79d1edac-9196-4f04-abb6-adcccbea2d8f.jpeg)
+
+
+- ![7](https://user-images.githubusercontent.com/104442377/172071429-c150b22e-d344-4540-8622-6bb07ec6e62b.jpeg)
+
+
+- ![8](https://user-images.githubusercontent.com/104442377/172071433-fec624da-147f-434d-97e6-660e6fe2386f.jpeg)
+
+
+- ![9](https://user-images.githubusercontent.com/104442377/172071439-097bd784-7ce5-408c-9e74-35b746a5412a.jpeg)
+
+
+- ![10](https://user-images.githubusercontent.com/104442377/172071443-c7828d0b-3edd-48e9-b1fe-e5736e3653fc.jpeg)
+
+
+
+
+- **Sprint Review**: Uygulamanın sayfalarının tasarımları yapıldı ve kodlama kısmı halloldu. Sayfalar arası gezinme ve detayları görme işlevleri eklendi. Firebase Auth çalışıldı.
+
+- **Sprint Retrospective:** Takımın hızlı aksiyon alabilmesi için neler yapılabileceği konuşuldu ve bu süreçte neler öğrenildiği konuşuldu.
+
+- **Diğer Notlar**:
+
 ---
+
