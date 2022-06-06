@@ -7,7 +7,7 @@ Grup 164
 ## Takım Elemanları
 
 - Şeyma Demir: Product Owner
-- Beyza Ünal: Scrum Master
+- Beyza Ünal: Scrum Master (Tasarım)
 - Koray Ademoğlu: Team Member/Developer
 - Doğukan Özgür Yılmaz: Team Member/Developer
 
