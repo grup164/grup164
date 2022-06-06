@@ -84,7 +84,7 @@ class _WelcomeState extends State<Welcome> {
       floatingActionButton: FloatingActionButton.extended(
         onPressed: () {
           Navigator.push(context,
-              MaterialPageRoute(builder: (context) => const Welcome()));
+              MaterialPageRoute(builder: (context) => const Home()));
         },
         label: const Text(
           'DEMO',
