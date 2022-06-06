@@ -61,7 +61,7 @@ class _FirstScreenState extends State<FirstScreen> {
       floatingActionButton: FloatingActionButton.extended(
         onPressed: () {
           Navigator.push(
-              context, MaterialPageRoute(builder: (context) => const Home()));
+              context, MaterialPageRoute(builder: (context) => const Welcome()));
         },
         label: const Text(
           'İleri',
