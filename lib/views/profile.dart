@@ -95,7 +95,7 @@ class _ProfileState extends State<Profile> {
                     Navigator.push(
                         context,
                         MaterialPageRoute(
-                            builder: (context) => const CreateDream()));
+                            builder: (context) => const Add()));
                   },
                   style: ElevatedButton.styleFrom(
                       padding: const EdgeInsets.symmetric(
