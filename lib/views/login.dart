@@ -123,8 +123,8 @@ class GradientButton extends StatelessWidget {
               textStyle: const TextStyle(fontSize: 20),
             ),
             onPressed: () {
-              // ignore: avoid_print
-              print("Giriş");
+              Navigator.push(
+                context, MaterialPageRoute(builder: (context) => const Home()));
             },
             child: const Text('Giriş Yap'),
           ),
