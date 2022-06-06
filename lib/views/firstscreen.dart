@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:wings/views/home.dart';
 import 'package:wings/views/welcome.dart';
 
 class FirstScreen extends StatefulWidget {
@@ -60,7 +61,7 @@ class _FirstScreenState extends State<FirstScreen> {
       floatingActionButton: FloatingActionButton.extended(
         onPressed: () {
           Navigator.push(
-              context, MaterialPageRoute(builder: (context) => const Welcome()));
+              context, MaterialPageRoute(builder: (context) => const Home()));
         },
         label: const Text(
           'İleri',

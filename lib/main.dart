@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:wings/views/firstscreen.dart';
+import 'package:wings/views/home.dart';
+import 'package:wings/views/welcome.dart';
 
 void main() {
   runApp(const MyApp());

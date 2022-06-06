@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:wings/views/createprofile.dart';
 
 class Register extends StatefulWidget {
   const Register({Key? key}) : super(key: key);
@@ -76,7 +77,7 @@ class _RegisterState extends State<Register> {
             ElevatedButton(
               onPressed: () {
                 Navigator.push(context,
-                    MaterialPageRoute(builder: (context) => const Register()));
+                    MaterialPageRoute(builder: (context) => const CreateProfile()));
               },
               style: ElevatedButton.styleFrom(
                 padding:
