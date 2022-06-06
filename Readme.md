@@ -13,11 +13,11 @@ Grup 164
 
 ## Ürün İsmi
 
-Maliyet
+Wings
 
 ## Ürün Açıklaması
 
-Maliyet ile birlikte yapmak istediginiz birikimlerle ilgili duzenli birikim planlari olusturabilir. Ekonomi okuryazarliginizi gelistirmek icin sunulan onerileri inceleyebilir ve kendi birikim hesaplarinizi ozel turlere dayali olarak olusturarak, sistemde yer alan birikim planlarini uygulayabilirsiniz. Maliyet, sundugu ozellikler sayesinde ekonomi okuryazarliginizi arttirmayi ve kaliteli bir gelecek icin mali planlarinizi yonetmenizi kolaylastirir.
+Wings ile birlikte yapmak istediginiz birikimlerle ilgili duzenli birikim planlari olusturabilir. Ekonomi okuryazarliginizi gelistirmek icin sunulan onerileri inceleyebilir ve kendi birikim hesaplarinizi ozel turlere dayali olarak olusturarak, sistemde yer alan birikim planlarini uygulayabilirsiniz. Maliyet, sundugu ozellikler sayesinde ekonomi okuryazarliginizi arttirmayi ve kaliteli bir gelecek icin mali planlarinizi yonetmenizi kolaylastirir.
 
 ## Ürün Özellikleri
 
